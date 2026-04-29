@@ -13,7 +13,7 @@
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  background-color: #ffff;
+  background-color: #ffffff;
 }
 
 .header {
@@ -66,8 +66,7 @@
   font-size: 58px;
   line-height: 72px;
   letter-spacing: -1px;
-  column-gap: 28px;
-  margin: 0;
+  margin-top: 183px;
 }
 
 .header__span-accent {
@@ -78,8 +77,6 @@
   font-weight: normal;
   font-size: 58px;
   line-height: 72px;
-  margin-left: 80px;
-  margin-top: 183px;
 }
 
 .header__description {
@@ -162,7 +159,6 @@
   column-gap: 40px;
   margin: 0;
   padding-top: 80px;
-  padding-bottom: 215px;
 }
 
 .recipes__video-item {
