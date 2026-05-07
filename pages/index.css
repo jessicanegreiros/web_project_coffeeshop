@@ -210,7 +210,7 @@
 
 .reservation__title {
   text-align: center;
-  margin: 0 0 80px;
+  margin-bottom: 80px;
   width: max-content;
   font-family: Inter;
   font-weight: 500;
